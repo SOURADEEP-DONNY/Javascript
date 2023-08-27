@@ -1,0 +1,4 @@
+console.log("HELLO WORLD from file2");
+console.log('PRINT FROM SINGLE QUOTES');
+console.log('PRINT WITHOUT SEMICOLON')
+console.log(`PRINT FROM BACTICKS - MAINLY USED FOR STRING TEMPLATES`);
